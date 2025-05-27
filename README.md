@@ -31,9 +31,9 @@ I’m **Antony Kazungu**, a **Full-Stack Software Developer** with a major focus
 ---
 
 ## 📫 **Connect with Me**
-- 🌐 [Your Personal Website/Portfolio](https://github.com/anto-kazungu/portfolio)
+- 🌐 [Website/Portfolio](https://github.com/anto-kazungu/portfolio)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/antony-kazungu-changawa/)
-- 📧 [Your Email](kazungu.antony.ch@gmail.com)
+- 📧 [Email](kazungu.antony.ch@gmail.com)
 
  
 
