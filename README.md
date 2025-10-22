@@ -25,8 +25,8 @@ I’m **Antony Kazungu**, a **Full-Stack Software Developer** with a major focus
 | Project | Description | Technologies |
 |---------|-------------|--------------|
 | [Clinic Management System](https://github.com/anto-kazungu/fullstack-telemedicine-webapp) | A full-stack system for managing patient appointments and visits | Angular 19, Node.js, MySQL |
-| [Portfolio Website](https://github.com/anto-kazungu/portfolio) | Personal website showcasing my projects and skills | JavaScript, Bootstrap, HTML5 |
-| [Medical Data API](#) | A REST API for managing clinic data efficiently | Flask, Python, MySQL |
+| [Doughnut Economy Project](https://github.com/anto-kazungu/nrf-doughnut-economy-project) | Doughnut Economy Impact Tracker for Ngong Road Forest | Angular 19, Nodejs, MongoDB, Bootstrap, HTML5,Tailwind CSS |
+| [Tech School Website](https://github.com/anto-kazungu/jenga-it-hub-temp) | Fully functional Tech School Website | HTML 5, CSS, Bootstrap, Mailchimp, Google Forms |
 
 ---
 
